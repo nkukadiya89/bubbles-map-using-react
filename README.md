@@ -1,15 +1,16 @@
 ## React Bubbles Map
 
-## Description
+## Usage Files
 
 Map Component : App.js
 
 Map Data Source File : cities.js (JSON)
 
-## Installing
+## Installation
 
 In the project directory, you can run:
 
+### `npm install`
 
 ### `npm start`
 
